@@ -3,7 +3,6 @@
 This project is a **RESTful Task Management backend application** built using **Spring Boot** and deployed on **AWS EC2 with Amazon RDS (MySQL)**.  
 It demonstrates how a backend application is developed locally and deployed to a real cloud environment.
 
----
 
 ## 🚀 Features
 - User Registration & Login (JWT Authentication)
